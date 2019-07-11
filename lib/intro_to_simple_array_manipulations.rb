@@ -1,1 +1,2 @@
 simple.push
+simple.unshift
