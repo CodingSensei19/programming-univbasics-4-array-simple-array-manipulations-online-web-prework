@@ -1,4 +1,4 @@
 simple.push
 simple.unshift
 simple.pop
-simple.
+simple.pop_with_args
