@@ -8,3 +8,4 @@ simple.concat
 simple.uniq
 simple.flatten
 simple.delete
+simple.delete_at
