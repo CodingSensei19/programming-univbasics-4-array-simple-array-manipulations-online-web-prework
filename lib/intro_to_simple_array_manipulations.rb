@@ -6,3 +6,4 @@ simple.shift
 simple.shift_with_args
 simple.concat
 simple.uniq
+simple.flatten
