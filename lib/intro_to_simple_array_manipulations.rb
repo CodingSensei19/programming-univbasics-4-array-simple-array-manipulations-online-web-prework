@@ -1,1 +1,3 @@
-sample << 'first item'
+a = [ "a", "b", "c" ]
+a.push("d", "e", "f")
+        #=> ["a", "b", "c", "d", "e", "f"]
