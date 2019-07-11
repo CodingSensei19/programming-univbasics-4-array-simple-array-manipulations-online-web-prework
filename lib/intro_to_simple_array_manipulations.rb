@@ -1,4 +1,4 @@
-a = [ "a", "b", "c", "d" ]
-a.pop     #=> "d"
-a.pop(2)  #=> ["b", "c"]
-a         #=> ["a"]
+simple.push
+simple.unshift
+simple.pop
+simple.
